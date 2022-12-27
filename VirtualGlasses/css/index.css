@@ -13,11 +13,6 @@ body{
     padding: 20px 40px;
     box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
 }
-
-.vglasses__left img{
-    max-width: 100%;
-}
-
 .vglasses__left .col-4{
     align-self: center;
 }
@@ -66,21 +61,3 @@ body{
 #glasses{
     transition: all 0.5s;
 }
-
-#glassesInfo span{
-    font-size: 21px;
-    
-}
-
-#glassesInfo h4{
-    font-size: 23px;
-    background-color: red;
-    max-width: 12%;
-    border-radius: 5px;
-    margin-top: 10px;
-}
-
-#glassesInfo p{
-    font-size: 16px;
-}
-
